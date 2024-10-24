@@ -1,4 +1,4 @@
-# MATCH! 2 Player Game with Infrared Communication
+# MATCH!: 2 Player Game with Infrared Communication
 
 ## Collaborators:** Wannes Baes
 
