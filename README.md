@@ -1,6 +1,6 @@
 # MATCH!: 2 Player Game with Infrared Communication
 
-## Collaborators:** Wannes Baes
+## Collaborators: Wannes Baes
 
 ## Context in which the project has been done:
  This project was created for the course Engineering Project in the Bachelor of Science in Engineering (Computer Science Engineering), under the supervision of Francis Wyffels, Tom Neutens, Thomas Lips, and Victor-Louis de Gusseme.
